@@ -1,2 +1,2 @@
 # LogicUtils
-Tools for Representing Logical Expressions
+Tools for Representing and Parsing Logical Expressions
